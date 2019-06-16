@@ -1,0 +1,16 @@
+{
+  "name": "dlrg-fetch",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "array-to-csv": "^1.0.1",
+    "is-number": "^7.0.0",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.6.0",
+    "progress": "^2.0.3"
+  },
+  "bin": {
+    "dlrg-fetch": "./index.js"
+  }
+}
